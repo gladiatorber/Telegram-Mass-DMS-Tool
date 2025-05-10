@@ -1,0 +1,1 @@
+pip install telethon requests beautifulsoup4

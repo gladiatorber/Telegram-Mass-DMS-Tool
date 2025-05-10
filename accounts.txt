@@ -1,0 +1,7 @@
+phone_number:api_id:api_hash:password(optional)
++1234567890:12345:abcdef1234567890abcdef1234567890:mypassword
+
+Get API credentials for each account:
+Go to https://my.telegram.org/apps
+Create an application for each account
+Note the api_id and api_hash

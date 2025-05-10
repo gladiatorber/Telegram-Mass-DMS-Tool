@@ -1,0 +1,20 @@
+1- Install Dependencies:
+pip install telethon requests beautifulsoup4
+
+2- Run Code:
+python tg_spammer.py
+
+
+
+
+🔓 Premium Features Include:
+- 👥 Parse Members from Groups – Instantly extract user data from any group
+- ➕ Auto-Join Groups – Skip the manual joins, expand reach faster
+- 😮 React to Messages Automatically – Stay active 24/7 without lifting a finger
+- 📢 Mass Group Messaging – Broadcast your message with powerful group engagement
+- 📩 Direct Messaging – Send DMs to members directly and efficiently
+- 🚫 Report Automation – Flag unwanted behavior or content instantly
+
+For premium features-Mass DMs Services and support:
+- ## Telegram: @vintok666
+  ## Link: https://t.me/vintok666
